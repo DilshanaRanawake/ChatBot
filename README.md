@@ -40,3 +40,6 @@ The Prisoner of Azkaban.
 J.K. Rowling did an amazing job with Harry Potter. What do you like the most about it?
 I like the character development and magical world.
 ```
+
+
+*** This project was inspired by a tutorial.
